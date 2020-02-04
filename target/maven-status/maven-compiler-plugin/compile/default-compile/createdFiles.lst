@@ -1,0 +1,6 @@
+cn\tedu\uo\controller\UserController.class
+cn\tedu\uo\domain\User.class
+cn\tedu\uo\service\UserServiceImpl.class
+cn\tedu\uo\UserStarter.class
+cn\tedu\uo\mapper\UserMapper.class
+cn\tedu\uo\service\Userservice.class
