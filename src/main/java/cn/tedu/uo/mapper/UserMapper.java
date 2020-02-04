@@ -7,3 +7,4 @@ public interface UserMapper {
     void updatePoint(@Param("userId") String userId,@Param("point") int point);
     User queryUserById(String userId);
 }
+// 测试
